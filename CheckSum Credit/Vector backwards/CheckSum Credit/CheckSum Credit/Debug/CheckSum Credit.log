@@ -1,8 +1,8 @@
 ﻿  Source.cpp
-C:\Users\jaspe\Desktop\Object oriented programming\Hackerank tests\CheckSum Credit\Vector backwards\CheckSum Credit\CheckSum Credit\Source.cpp(13,14): warning C4018: '<=': signed/unsigned mismatch
-C:\Users\jaspe\Desktop\Object oriented programming\Hackerank tests\CheckSum Credit\Vector backwards\CheckSum Credit\CheckSum Credit\Source.cpp(23,14): warning C4018: '<': signed/unsigned mismatch
-C:\Users\jaspe\Desktop\Object oriented programming\Hackerank tests\CheckSum Credit\Vector backwards\CheckSum Credit\CheckSum Credit\Source.cpp(43,14): warning C4018: '<=': signed/unsigned mismatch
-C:\Users\jaspe\Desktop\Object oriented programming\Hackerank tests\CheckSum Credit\Vector backwards\CheckSum Credit\CheckSum Credit\Source.cpp(54,14): warning C4018: '<': signed/unsigned mismatch
-C:\Users\jaspe\Desktop\Object oriented programming\Hackerank tests\CheckSum Credit\Vector backwards\CheckSum Credit\CheckSum Credit\Source.cpp(72,14): warning C4018: '<': signed/unsigned mismatch
-C:\Users\jaspe\Desktop\Object oriented programming\Hackerank tests\CheckSum Credit\Vector backwards\CheckSum Credit\CheckSum Credit\Source.cpp(98,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jaspe\Desktop\Object oriented programming\Hackerank tests\CheckSum Credit\Vector backwards\CheckSum Credit\CheckSum Credit\Source.cpp(14,14): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jaspe\Desktop\Object oriented programming\Hackerank tests\CheckSum Credit\Vector backwards\CheckSum Credit\CheckSum Credit\Source.cpp(24,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jaspe\Desktop\Object oriented programming\Hackerank tests\CheckSum Credit\Vector backwards\CheckSum Credit\CheckSum Credit\Source.cpp(44,14): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\jaspe\Desktop\Object oriented programming\Hackerank tests\CheckSum Credit\Vector backwards\CheckSum Credit\CheckSum Credit\Source.cpp(55,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jaspe\Desktop\Object oriented programming\Hackerank tests\CheckSum Credit\Vector backwards\CheckSum Credit\CheckSum Credit\Source.cpp(73,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jaspe\Desktop\Object oriented programming\Hackerank tests\CheckSum Credit\Vector backwards\CheckSum Credit\CheckSum Credit\Source.cpp(110,14): warning C4018: '<': signed/unsigned mismatch
   CheckSum Credit.vcxproj -> C:\Users\jaspe\Desktop\Object oriented programming\Hackerank tests\CheckSum Credit\Vector backwards\CheckSum Credit\Debug\CheckSum Credit.exe

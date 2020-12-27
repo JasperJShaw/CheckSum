@@ -2,7 +2,6 @@
 #include <algorithm>
 #include <vector>
 #include <numeric>
-#include <iomanip>
 using namespace std;
 int A = 0;
 int B = 0;
@@ -26,7 +25,7 @@ int sumOdd(vector <int>cardNumReverse)
         A = A + oddNum.at(k);
         k++;
     }
-    cout<<"This is A" << A << "\n";
+    cout << A << "\n";
     return A;
 }
 
@@ -72,10 +71,9 @@ int sumEven(vector<int>cardNumReverse) {
     }
     while (l < evenNum.size())
     {
-        B = B + (evenNum.at(l));
+        B = B + evenNum.at(l);
         l++;
     }
-    cout << "This is B" << B;
     return B;
 }
 int finalCalc()
@@ -93,23 +91,13 @@ int finalCalc()
     return result;
 }
 int main() {
-    int l = 1;
     int i = 0;
-    int maxint = 16;
-    int userInput;
-    vector<int>cardNum;
-    while (l <= 16)
-    {
-        cout << "Enter the" << l << "th digit";
-        cin >> userInput;
-        cardNum.push_back(userInput);
-        l++;
-    }
+    vector<int>cardNum = { 3,4,14,5,6,7,8,9,5,3,6,7,3,5,8,9 };
     vector<int>cardNumReverse;
     copy(cardNum.rbegin(), cardNum.rend(), back_inserter(cardNumReverse));
     while (i < cardNumReverse.size())
     {
-        cout << cardNumReverse.at(i)<<"\n";
+        cout << cardNumReverse.at(i);
         i++;
     }
     sumOdd(cardNumReverse);
